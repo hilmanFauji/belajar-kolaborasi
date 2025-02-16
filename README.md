@@ -1,4 +1,4 @@
 # belajar-kolaborasi
-menambahkan satu commit
-menambahkan kommit kedua
-menambahkan commit ketiga
+menambahkan satu commit<br>
+menambahkan kommit kedua<br>
+menambahkan commit ketiga<br>
